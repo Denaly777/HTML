@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+:root {
+  --background: rgba;
+}
+
+/* navigation styles start here */
+.logo {
+  width: 30rem;
+}
